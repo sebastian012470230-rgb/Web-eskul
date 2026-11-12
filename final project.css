@@ -1,0 +1,21 @@
+.tqq{
+    background-color: #fb6f92;
+    border: 3px solid #da627d;
+    align-items: center;
+    text-align:center;
+    color: #f9dbbd;
+
+}
+body{
+    background-color: #ffc8dd;
+}
+.characters{
+    text-align: center;
+}
+.l{
+    text-align: left;
+    flex-wrap: wrap;
+}
+.rimg{
+    flex-direction: row-reverse;
+}
